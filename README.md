@@ -1,6 +1,6 @@
 # FA CRA React Boilerplate
 
-**FA CRA React Boilerplate** is a template developed by me for saving time with general repository configuring.
+**FA CRA React Boilerplate** is a template developed by me for saving time with general repository configurations.
 
 Use it whatever you want and be sure to reach me out on [Twitter](https://twitter.com/alencarftc) if you build anything cool/useful with it.
 
