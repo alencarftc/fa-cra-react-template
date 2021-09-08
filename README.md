@@ -1,7 +1,8 @@
 # FA CRA React Boilerplate
 
-**FA CRA React Boilerplate** is a template developed by me for saving time with general repository configurations.
+<img src='https://repository-images.githubusercontent.com/404145264/3912c7b4-9ab8-4817-8f9c-8e1ba7fe7f39' />
 
+**FA CRA React Boilerplate** is a template developed by me for saving time with general repository configurations.
 Use it whatever you want and be sure to reach me out on [Twitter](https://twitter.com/alencarftc) if you build anything cool/useful with it.
 
 Created and maintained with ❤️ by [Felipe Alencar](https://github.com/alencarftc).
